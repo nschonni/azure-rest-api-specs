@@ -22,7 +22,7 @@
         "accessControl": null,
         "availabilitySetName": "availableset",
         "maxCacheAge": null,
-        "CrossSiteAccessPolicies": null,
+        "crossSiteAccessPolicies": null,
         "CustomHostNames": [],
         "HostName": null,
         "CdnEnabled": false,

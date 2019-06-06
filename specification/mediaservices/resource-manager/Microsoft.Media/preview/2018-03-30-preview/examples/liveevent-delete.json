@@ -46,7 +46,7 @@
         },
         "ProvisioningState": null,
         "ResourceState": "Stopped",
-        "CrossSiteAccessPolicies": null,
+        "crossSiteAccessPolicies": null,
         "VanityUrl": false,
         "StreamOptions": [],
         "Created": "2018-03-02T18:25:07.5748853-08:00",
