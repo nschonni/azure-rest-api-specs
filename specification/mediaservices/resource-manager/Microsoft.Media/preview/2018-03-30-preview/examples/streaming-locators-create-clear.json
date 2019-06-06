@@ -7,7 +7,7 @@
     "api-version": "2018-03-30-preview",
     "parameters": {
       "properties": {
-        "StreamingPolicyName": "clearStreamingPolicy",
+        "streamingPolicyName": "clearStreamingPolicy",
         "assetName": "ClimbingMountRainier"
       }
     }

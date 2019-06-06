@@ -38,7 +38,7 @@
             }
           },
           "PreviewLocator": null,
-          "StreamingPolicyName": null
+          "streamingPolicyName": null
         },
         "Encoding": {
           "EncodingType": "None",
