@@ -13,17 +13,17 @@
         "contentKeys": [
           {
             "label": "aesDefaultKey",
-            "Id": "60000000-0000-0000-0000-000000000001",
+            "id": "60000000-0000-0000-0000-000000000001",
             "value": "1UqLohAfWsEGkULYxHjYZg=="
           },
           {
             "label": "cencDefaultKey",
-            "Id": "60000000-0000-0000-0000-000000000004",
+            "id": "60000000-0000-0000-0000-000000000004",
             "value": "4UqLohAfWsEGkULYxHjYZg=="
           },
           {
             "label": "cbcsDefaultKey",
-            "Id": "60000000-0000-0000-0000-000000000007",
+            "id": "60000000-0000-0000-0000-000000000007",
             "value": "7UqLohAfWsEGkULYxHjYZg=="
           }
         ]
