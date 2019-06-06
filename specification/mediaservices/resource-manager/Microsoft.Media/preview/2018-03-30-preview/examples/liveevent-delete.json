@@ -17,7 +17,7 @@
         }
       },
       "properties": {
-        "Description": "test event updated",
+        "description": "test event updated",
         "Input": {
           "StreamingProtocol": "FragmentedMP4",
           "KeyFrameIntervalDuration": "PT6S",

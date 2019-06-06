@@ -17,7 +17,7 @@
         }
       },
       "properties": {
-        "Description": "test event 1",
+        "description": "test event 1",
         "scaleUnits": 1,
         "accessControl": null,
         "availabilitySetName": "availableset",
