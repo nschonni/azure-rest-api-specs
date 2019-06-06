@@ -12,17 +12,17 @@
         "streamingLocatorId": "90000000-0000-0000-0000-00000000000A",
         "contentKeys": [
           {
-            "Label": "aesDefaultKey",
+            "label": "aesDefaultKey",
             "Id": "60000000-0000-0000-0000-000000000001",
             "Value": "1UqLohAfWsEGkULYxHjYZg=="
           },
           {
-            "Label": "cencDefaultKey",
+            "label": "cencDefaultKey",
             "Id": "60000000-0000-0000-0000-000000000004",
             "Value": "4UqLohAfWsEGkULYxHjYZg=="
           },
           {
-            "Label": "cbcsDefaultKey",
+            "label": "cbcsDefaultKey",
             "Id": "60000000-0000-0000-0000-000000000007",
             "Value": "7UqLohAfWsEGkULYxHjYZg=="
           }
