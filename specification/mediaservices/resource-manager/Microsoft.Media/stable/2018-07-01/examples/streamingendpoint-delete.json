@@ -23,16 +23,16 @@
         "availabilitySetName": "availableset",
         "maxCacheAge": null,
         "crossSiteAccessPolicies": null,
-        "CustomHostNames": [],
+        "customHostNames": [],
         "HostName": null,
-        "CdnEnabled": false,
-        "CdnProvider": null,
-        "CdnProfile": null,
-        "FreeTrialEndTime": "0001-01-01T00:00:00-08:00",
-        "ProvisioningState": null,
-        "ResourceState": "Stopped",
-        "Created": "2018-03-02T18:25:09.4897514-08:00",
-        "LastModified": "2018-03-02T18:25:09.4897514-08:00"
+        "cdnEnabled": false,
+        "cdnProvider": null,
+        "cdnProfile": null,
+        "freeTrialEndTime": "0001-01-01T00:00:00-08:00",
+        "provisioningState": null,
+        "resourceState": "Stopped",
+        "created": "2018-03-02T18:25:09.4897514-08:00",
+        "lastModified": "2018-03-02T18:25:09.4897514-08:00"
       }
     }
   },
