@@ -20,7 +20,7 @@
         "Description": "test event 1",
         "scaleUnits": 1,
         "accessControl": null,
-        "AvailabilitySetName": "availableset",
+        "availabilitySetName": "availableset",
         "MaxCacheAge": null,
         "CrossSiteAccessPolicies": null,
         "CustomHostNames": [],
