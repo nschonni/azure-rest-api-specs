@@ -9,7 +9,7 @@
       "properties": {
         "streamingPolicyName": "secureStreamingPolicy",
         "assetName": "ClimbingMountRainier",
-        "StartTime": "2018-03-01T00:00:00Z",
+        "startTime": "2018-03-01T00:00:00Z",
         "endTime": "2028-12-31T23:59:59.9999999Z"
       }
     }
