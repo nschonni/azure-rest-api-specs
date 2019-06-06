@@ -16,7 +16,7 @@
           "tag2": "value2"
         }
       },
-      "Properties": {
+      "properties": {
         "Description": "test event updated",
         "Input": {
           "StreamingProtocol": "FragmentedMP4",

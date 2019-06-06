@@ -16,7 +16,7 @@
           "tag2": "value2"
         }
       },
-      "Properties": {
+      "properties": {
         "Description": "test event 1",
         "ScaleUnits": 1,
         "AccessControl": null,
