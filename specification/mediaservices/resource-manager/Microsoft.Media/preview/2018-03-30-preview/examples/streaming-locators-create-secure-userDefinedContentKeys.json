@@ -10,7 +10,7 @@
         "assetName": "ClimbingMountRainier",
         "streamingPolicyName": "secureStreamingPolicy",
         "StreamingLocatorId": "90000000-0000-0000-0000-00000000000A",
-        "ContentKeys": [
+        "contentKeys": [
           {
             "Label": "aesDefaultKey",
             "Id": "60000000-0000-0000-0000-000000000001",
