@@ -18,37 +18,37 @@
       },
       "properties": {
         "description": "test event updated",
-        "Input": {
-          "StreamingProtocol": "FragmentedMP4",
-          "KeyFrameIntervalDuration": "PT6S",
-          "Endpoints": [],
-          "AccessToken": null
+        "input": {
+          "streamingProtocol": "FragmentedMP4",
+          "keyFrameIntervalDuration": "PT6S",
+          "endpoints": [],
+          "accessToken": null
         },
-        "Preview": {
-          "Endpoints": [],
+        "preview": {
+          "endpoints": [],
           "accessControl": {
-            "IP": {
-              "Allow": [
+            "ip": {
+              "allow": [
                 {
                   "name": "AllowOne",
-                  "Address": "192.1.1.0",
-                  "SubnetPrefixLength": null
+                  "address": "192.1.1.0",
+                  "subnetPrefixLength": null
                 }
               ]
             }
           },
-          "PreviewLocator": null,
+          "previewLocator": null,
           "streamingPolicyName": null
         },
-        "Encoding": {
-          "EncodingType": "None",
-          "PresetName": null
+        "encoding": {
+          "encodingType": "None",
+          "presetName": null
         },
         "provisioningState": null,
         "resourceState": "Stopped",
         "crossSiteAccessPolicies": null,
-        "VanityUrl": false,
-        "StreamOptions": [],
+        "vanityUrl": false,
+        "streamOptions": [],
         "Created": "2018-03-02T18:25:07.5748853-08:00",
         "lastModified": "2018-03-02T18:25:07.5748853-08:00"
       }
