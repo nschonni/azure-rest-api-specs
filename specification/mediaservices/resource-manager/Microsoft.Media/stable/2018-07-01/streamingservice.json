@@ -1344,7 +1344,7 @@
       },
       "description": "The Live Event encoding."
     },
-    "crossSiteAccessPolicies": {
+    "CrossSiteAccessPolicies": {
       "properties": {
         "clientAccessPolicy": {
           "type": "string",
