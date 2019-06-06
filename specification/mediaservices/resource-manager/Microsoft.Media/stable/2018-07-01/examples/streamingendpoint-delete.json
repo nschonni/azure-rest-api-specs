@@ -21,7 +21,7 @@
         "scaleUnits": 1,
         "accessControl": null,
         "availabilitySetName": "availableset",
-        "MaxCacheAge": null,
+        "maxCacheAge": null,
         "CrossSiteAccessPolicies": null,
         "CustomHostNames": [],
         "HostName": null,
