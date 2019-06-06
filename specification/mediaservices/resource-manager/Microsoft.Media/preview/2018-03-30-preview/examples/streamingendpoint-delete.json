@@ -19,7 +19,7 @@
       "properties": {
         "Description": "test event 1",
         "scaleUnits": 1,
-        "AccessControl": null,
+        "accessControl": null,
         "AvailabilitySetName": "availableset",
         "MaxCacheAge": null,
         "CrossSiteAccessPolicies": null,

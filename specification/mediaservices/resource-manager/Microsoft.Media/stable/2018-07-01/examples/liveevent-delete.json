@@ -26,7 +26,7 @@
         },
         "Preview": {
           "Endpoints": [],
-          "AccessControl": {
+          "accessControl": {
             "IP": {
               "Allow": [
                 {
