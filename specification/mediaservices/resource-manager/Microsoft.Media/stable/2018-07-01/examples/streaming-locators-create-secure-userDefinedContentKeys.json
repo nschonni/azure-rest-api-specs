@@ -12,17 +12,17 @@
         "streamingLocatorId": "90000000-0000-0000-0000-00000000000A",
         "contentKeys": [
           {
-            "LabelReferenceInStreamingPolicy": "aesDefaultKey",
+            "labelReferenceInStreamingPolicy": "aesDefaultKey",
             "Id": "60000000-0000-0000-0000-000000000001",
             "Value": "1UqLohAfWsEGkULYxHjYZg=="
           },
           {
-            "LabelReferenceInStreamingPolicy": "cencDefaultKey",
+            "labelReferenceInStreamingPolicy": "cencDefaultKey",
             "Id": "60000000-0000-0000-0000-000000000004",
             "Value": "4UqLohAfWsEGkULYxHjYZg=="
           },
           {
-            "LabelReferenceInStreamingPolicy": "cbcsDefaultKey",
+            "labelReferenceInStreamingPolicy": "cbcsDefaultKey",
             "Id": "60000000-0000-0000-0000-000000000007",
             "Value": "7UqLohAfWsEGkULYxHjYZg=="
           }
