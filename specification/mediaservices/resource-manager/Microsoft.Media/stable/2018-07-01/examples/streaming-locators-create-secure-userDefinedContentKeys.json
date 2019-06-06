@@ -14,17 +14,17 @@
           {
             "labelReferenceInStreamingPolicy": "aesDefaultKey",
             "Id": "60000000-0000-0000-0000-000000000001",
-            "Value": "1UqLohAfWsEGkULYxHjYZg=="
+            "value": "1UqLohAfWsEGkULYxHjYZg=="
           },
           {
             "labelReferenceInStreamingPolicy": "cencDefaultKey",
             "Id": "60000000-0000-0000-0000-000000000004",
-            "Value": "4UqLohAfWsEGkULYxHjYZg=="
+            "value": "4UqLohAfWsEGkULYxHjYZg=="
           },
           {
             "labelReferenceInStreamingPolicy": "cbcsDefaultKey",
             "Id": "60000000-0000-0000-0000-000000000007",
-            "Value": "7UqLohAfWsEGkULYxHjYZg=="
+            "value": "7UqLohAfWsEGkULYxHjYZg=="
           }
         ]
       }
