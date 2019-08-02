@@ -8,8 +8,7 @@
     "customDomainName": "www-someDomain-net"
   },
   "responses": {
-    "200": {
-      "body": {}
-    }
+    "200": {},
+    "202": {}
   }
 }
