@@ -5,7 +5,7 @@
     "api-version": "2019-02-01-preview"
   },
   "responses": {
-    "202": {
+    "200": {
       "body": {
         "value": [
           {
@@ -30,11 +30,7 @@
                 {
                   "type": "ManagedImage",
                   "location": "1_location",
-                  "runOutputName": "image_it_pir_1",
-                  "imageId": "/subscriptions/{subscription-id}/resourceGroups/rg1/providers/Microsoft.Compute/images/image_it_1",
-                  "tags": {
-                    "tagName": "value"
-                  }
+                  "runOutputName": "image_it_pir_1"
                 }
               ]
             }
@@ -73,8 +69,7 @@
                     "eastus",
                     "westus"
                   ],
-                  "runOutputName": "gallery",
-                  "imageId": "/subscriptions/{subscription-id}/resourceGroups/rg1/providers/Microsoft.Compute/images/baseimage-eus"
+                  "runOutputName": "gallery"
                 }
               ]
             }
